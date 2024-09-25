@@ -4,8 +4,9 @@ Estudante de análise e desenvolvimento de sistemas na Estácio de Sá. Atualmen
 
 ### linguagens e tecnologias
 
-![PHP](https://img.shields.io/badge/PHP-000?style=flat&logo=php&logoColor=blue)
+![java](https://img.shields.io/badge/Java-000?style=flat&logo=java&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript&logoColor=yellow)
+![PHP](https://img.shields.io/badge/PHP-000?style=flat&logo=php&logoColor=blue)
 ![HTML5](https://img.shields.io/badge/HTML-000?style=flat&logo=html5&logoColor=orange)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=flat&logo=css3&logoColor=blue)
 [![Git](https://img.shields.io/badge/Git-000?style=flat&logo=git&logoColor=red)](https://git-scm.com/doc)
